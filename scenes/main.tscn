@@ -7,3 +7,4 @@
 script = ExtResource("1_0wfyh")
 
 [node name="LevelRoot" parent="." unique_id=1590128024 instance=ExtResource("1_o5qli")]
+position = Vector2(245, 148)
